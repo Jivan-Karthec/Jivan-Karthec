@@ -19,7 +19,9 @@ Jivan is always eager to connect with fellow professionals and explore new oppor
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig.__.karthick/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jivankarthec/)
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk)
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=scriptkiddieeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jivan-Karthec&theme=dark&hide_border=false)<br/>
