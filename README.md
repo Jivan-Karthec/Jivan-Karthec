@@ -22,12 +22,12 @@ Jivan is always eager to connect with fellow professionals and explore new oppor
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=scriptkiddieeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=malwarekid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malwarekid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jivan-Karthec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivan-Karthec&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 ### 👤 Profile Visit:
-![Visitor Count](https://profile-counter.glitch.me/malwarekid/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
   ## 💰 You can support me by Donating:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/script126) 
 
