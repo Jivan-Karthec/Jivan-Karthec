@@ -2,9 +2,7 @@
  
 # Jivan Karthec B S 
 
-Jivan Karthec is a dedicated cybersecurity professional with a flair for discovering vulnerabilities and enhancing security measures. With extensive experience in threat hunting, vulnerability assessment, and SOC management, he excels at identifying weaknesses and fortifying defenses.
-
-Nitin is also a creator and educator, passionate about developing hands-on labs and training courses to share his knowledge. He has designed and built several innovative tools, including a Python-based Inject-EXE, Fileless-PE, VBS-Stager, a Static malware analysis lab, and PowerShell for Red Team course for Parrot CTF. His expertise spans PowerShell, Python, and Bash, which he uses to develop effective solutions for security.
+Jivan Karthec is a passionate cybersecurity professional specializing in digital forensics, threat hunting, and security operations. With hands-on experience in SIEM solutions, vulnerability assessment, and incident response, he excels at detecting threats and strengthening security postures.
 
 Skills:
 - Digital Forensics & Incident Response
@@ -31,6 +29,7 @@ Jivan is always eager to connect with fellow professionals and explore new oppor
 ### 👤 Profile Visit:
 ![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
   ## 💰 You can support me by Donating:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/script126) 
+  [![UPI](https://img.shields.io/badge/UPI-0052FF?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=9384230285@upi&pn=YOUR_NAME)
+ 
 
   
