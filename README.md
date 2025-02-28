@@ -29,7 +29,8 @@ Jivan is always eager to connect with fellow professionals and explore new oppor
 ### 👤 Profile Visit:
 ![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
   ## 💰 You can support me by Donating:
-  [![UPI](https://img.shields.io/badge/UPI-0052FF?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=9384230285@upi&pn=YOUR_NAME)
+  [![UPI](https://img.shields.io/badge/UPI-0052FF?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=9384230285@upi)
+
  
 
   
