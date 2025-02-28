@@ -7,12 +7,12 @@ Jivan Karthec is a dedicated cybersecurity professional with a flair for discove
 Nitin is also a creator and educator, passionate about developing hands-on labs and training courses to share his knowledge. He has designed and built several innovative tools, including a Python-based Inject-EXE, Fileless-PE, VBS-Stager, a Static malware analysis lab, and PowerShell for Red Team course for Parrot CTF. His expertise spans PowerShell, Python, and Bash, which he uses to develop effective solutions for security.
 
 Skills:
-- Threat Hunting & Incident Response
-- Vulnerability Assessment
-- SOC Operations & Management
-- Red Teaming & Penetration Testing
-- Python & PowerShell
-- Malware Analysis & Forensics
+- Digital Forensics & Incident Response
+- Threat Intelligence & Hunting
+- Security Operations & Log Analysis
+- Vulnerability & Risk Assessment
+- SIEM & EDR Solutions (Splunk, Wazuh, LimaCharlie)
+- Python & PowerShell Scripting
 
 Jivan is always eager to connect with fellow professionals and explore new opportunities to advance the field of cybersecurity.
 
